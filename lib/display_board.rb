@@ -22,6 +22,6 @@ position_7 = board[6]
 position_8 = board[7]
 position_9 = board[8]
 
-puts " #{{position_0}} | #{{position_1}} | #{{position_2}} "
+puts " #{position_0} | #{position_1} | #{position_2} "
 
 end

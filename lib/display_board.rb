@@ -9,5 +9,9 @@ def display_board
   puts  "   |   |   "
 end
 
-board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
-display_board(board)
+def display_board(board)
+  board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
+
+position_1 = 
+
+

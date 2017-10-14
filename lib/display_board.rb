@@ -9,4 +9,3 @@ def board = [
   puts "   |   |   "
 ]
 end
-

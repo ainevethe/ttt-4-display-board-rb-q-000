@@ -3,7 +3,6 @@
 
 
 def display_board(board)
-  board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 
 position_1 = board[0]
 position_2 = board[1]

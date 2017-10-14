@@ -12,6 +12,12 @@ end
 def display_board(board)
   board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 
-position_1 = 
-
-
+position_1 = board[0]
+position_2 = board[1]
+position_3 = board[2]
+position_4 = board[3]
+position_5 = board[4]
+position_6 = board[5]
+position_7 = board[6]
+position_8 = board[7]
+position_9 = board[8]

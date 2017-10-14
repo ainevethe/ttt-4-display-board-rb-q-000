@@ -24,7 +24,7 @@ position_9 = board[8]
 
 puts " #{position_0} | #{position_1} | #{position_2} "
 puts "-----------"
-puts " #{position_0} | #{position_1} | #{position_2} "
+puts " #{position_3} | #{position_4} | #{position_5} "
 puts "-----------"
-puts " #{position_0} | #{position_1} | #{position_2} "
+puts " #{position_6} | #{position_7} | #{position_8} "
 end

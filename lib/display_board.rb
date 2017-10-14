@@ -9,6 +9,6 @@ puts  "-----------"
 puts  "   |   |   "
 end
 
-board = [" X ","   "," O ","   ","   ","   ","   ","   ","   ",]
+board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 
-display_board(board)
+display_board(board = [])
